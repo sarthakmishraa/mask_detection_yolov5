@@ -1,0 +1,11 @@
+# K:/DESKTOP_FILES/Machine Learning/computer vision/yolov5/images/train
+train: ../images/train
+val:  ../images/test
+test: ../images/val
+
+# number of classes
+nc: 2
+
+# class names
+# names: ["trafficlight","stop", "speedlimit","crosswalk"]
+names: ["mask", "without mask"]
