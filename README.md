@@ -1,3 +1,6 @@
+No of classes : 2
+Classes : [without mask, mask]
+
 ![Detection Snip 1](images/mask_snip1.jpg)
 
 ![Results](https://github.com/sarthakmishraa/mask_detection_yolov5/blob/main/runs/train/results.png)
