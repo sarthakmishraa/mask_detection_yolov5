@@ -1,6 +1,6 @@
 No of classes : 2
 
-Classes : [without mask, mask]
+Classes : ['without mask', 'mask']
 
 ![Detection Snip 1](images/mask_snip1.jpg)
 
